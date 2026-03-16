@@ -1,6 +1,7 @@
 # Business Sales Performance Analytics Dashboard
 
 This project was completed as part of the **Data Science & Analytics Internship at Future Interns**.
+https://preview--sales-storyteller-deck.lovable.app/
 
 ## 📊 Project Overview
 This Power BI dashboard analyzes business sales performance using the Superstore dataset.  
